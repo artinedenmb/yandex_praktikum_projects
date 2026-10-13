@@ -4,8 +4,8 @@
 
 Данные, используемые в исходной тетради:
 
-- `/datasets/geo_data_0.csv`
-- `/datasets/geo_data_1.csv`
-- `/datasets/geo_data_2.csv`
+- [`/datasets/geo_data_0.csv`](https://code.s3.yandex.net/datasets/geo_data_0.csv)
+- [`/datasets/geo_data_1.csv`](https://code.s3.yandex.net/datasets/geo_data_1.csv)
+- [`/datasets/geo_data_2.csv`](https://code.s3.yandex.net/datasets/geo_data_2.csv)
 
 Тетрадь сохранена в исходном виде вместе с результатами выполнения и комментариями ревьюера. Для повторного запуска нужны наборы данных Практикума по указанным путям.

@@ -4,7 +4,7 @@
 
 Данные, используемые в исходной тетради:
 
-- `/datasets/faces/final_files/`
-- `/datasets/faces/labels.csv`
+- [`/datasets/faces/final_files/`](https://code.s3.yandex.net/datasets/faces/final_files/)
+- `/datasets/faces/labels.csv` (доступен в учебной среде Практикума)
 
 Тетрадь сохранена в исходном виде вместе с результатами выполнения и комментариями ревьюера. Для повторного запуска нужны наборы данных Практикума по указанным путям.

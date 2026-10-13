@@ -4,6 +4,6 @@
 
 Данные, используемые в исходной тетради:
 
-- `/datasets/yandex_music_project.csv`
+- [`/datasets/yandex_music_project.csv`](https://code.s3.yandex.net/datasets/yandex_music_project.csv)
 
 Тетрадь сохранена в исходном виде вместе с результатами выполнения и комментариями ревьюера. Для повторного запуска нужны наборы данных Практикума по указанным путям.

@@ -4,9 +4,9 @@
 
 Данные, используемые в исходной тетради:
 
-- `/datasets/final_provider/contract.csv`
-- `/datasets/final_provider/internet.csv`
-- `/datasets/final_provider/personal.csv`
-- `/datasets/final_provider/phone.csv`
+- `/datasets/final_provider/contract.csv` (доступен в учебной среде Практикума)
+- `/datasets/final_provider/internet.csv` (доступен в учебной среде Практикума)
+- `/datasets/final_provider/personal.csv` (доступен в учебной среде Практикума)
+- `/datasets/final_provider/phone.csv` (доступен в учебной среде Практикума)
 
 Тетрадь сохранена в исходном виде вместе с результатами выполнения и комментариями ревьюера. Для повторного запуска нужны наборы данных Практикума по указанным путям.
